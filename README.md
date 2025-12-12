@@ -24,6 +24,7 @@ tp_recaptcha/
 └── templates/
        └── login.html      
 ```
+<img width="702" height="779" alt="image" src="https://github.com/user-attachments/assets/3fd60cb0-1ab8-4a87-a183-8b788b2e8e7b" />
 
 --- 
 
@@ -78,6 +79,16 @@ RECAPTCHA_SECRET_KEY=ta_cle_secrete
 
 ---
 
+## 📦 3.  installe Flask et Requests
+
+**Dans le terminal**
+```
+pip install flask requests python-dotenv
+```
+<img width="2555" height="602" alt="image" src="https://github.com/user-attachments/assets/55290a6d-bffe-4944-a9d2-b36f4bfbf268" />
+
+---
+
 # 🧩 3. Backend Flask – Vérification reCAPTCHA (app.py)
 
 ```
@@ -127,13 +138,15 @@ if __name__ == "__main__":
 # 🧪 4. Tests & Vérification Anti-Bot
 ## ✔️ 1. Affichage du formulaire avec reCAPTCHA
 
-->📸 Insérer la capture d’écran ici
+<img width="2559" height="1258" alt="image" src="https://github.com/user-attachments/assets/55593e13-e489-4725-b93b-110618c2ef52" />
+
 
 --- 
 
 ## ❌ 2. Tentative de connexion sans reCAPTCHA
 
-->📸 Insérer la capture d’écran ici
+<img width="2559" height="1187" alt="image" src="https://github.com/user-attachments/assets/0c098da3-623e-46f0-a473-142903ce4b5f" />
+
 
 ---
 
