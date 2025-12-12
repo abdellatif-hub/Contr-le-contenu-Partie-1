@@ -152,7 +152,7 @@ if __name__ == "__main__":
 
 ## ✔️ 3. Connexion valide avec reCAPTCHA coché
 
-->📸 Insérer la capture d’écran ici
+<img width="2552" height="1265" alt="image" src="https://github.com/user-attachments/assets/fb40d695-2391-434e-a140-72b0bc9eee93" />
 
 ---
 
